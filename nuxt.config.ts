@@ -12,16 +12,16 @@ export default defineNuxtConfig({
             {rel:'icon', type:'image/x-icon', href:'favicon.png'}
           ],
           script: [
-            {src: 'js/vendor/jquary-3.6.0.min.js', body:true},
-            {src:'js/vendor/modernizr-2.8.3-respond-1.4.2.min.js', body:true},
-            {src:'js/vendor/jquery.ajaxchimp.min.js', body:true},
-            {src:'js/vendor/bootstrap.min.js', body:true},
-            {src:'js/vendor/popper.min.js', body:true},
-            // {src:'js/vendor/swiper.min.js', body:true},
-            {src:'js/vendor/jquery.nice-select.min.js', body:true},
-            // {src:'js/vendor/venobox.min.js', body:true},
-            // {src:'js/vendor/wow.min.js', body:true},
-            {src:'js/main.js', body:true},
+            {src: '/js/vendor/jquary-3.6.0.min.js', body:true},
+            {src:'/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js', body:true},
+            {src:'/js/vendor/jquery.ajaxchimp.min.js', body:true},
+            {src:'/js/vendor/bootstrap.min.js', body:true},
+            {src:'/js/vendor/popper.min.js', body:true},
+            // {src:'/js/vendor/swiper.min.js', body:true},
+            {src:'/js/vendor/jquery.nice-select.min.js', body:true},
+            // {src:'/js/vendor/venobox.min.js', body:true},
+            // {src:'/js/vendor/wow.min.js', body:true},
+            {src:'/js/main.js', body:true},
 
           ]
         }

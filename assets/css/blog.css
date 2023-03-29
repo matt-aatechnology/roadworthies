@@ -175,8 +175,8 @@
 }
 
 .post-details p {
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 16px;
+    line-height: 26px;
     margin-bottom: 40px;
 }
 
@@ -185,8 +185,8 @@ blockquote {
     padding: 40px;
     border: 1px solid #eee;
     border-left: 3px solid #ff9900;
-    font-size: 24px;
-    line-height: 32px;
+    font-size: 18px;
+    line-height: 30px;
     font-weight: 500;
     color: #222;
     display: block;
