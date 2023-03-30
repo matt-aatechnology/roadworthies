@@ -34,7 +34,7 @@ Our licensed mobile mechanics are on the road providing fast mobile roadworthy (
 </p>
 
         <ul class="post-details-gallery">
-            <li class="img-border"><img src="/img/cars-1.jpg" alt="sample car rwc"></li>
+            <li class="img-border"><img src="/img/rwc.jpg" alt="sample car rwc"></li>
             <li class="img-border"><img src="/img/cars-2.jpg" alt="cars"></li>
         </ul>
 

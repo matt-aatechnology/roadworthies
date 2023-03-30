@@ -30,7 +30,7 @@ Our licensed mobile mechanics are on the road providing fast mobile roadworthy (
 <NuxtLink to="/pages/service-areas/roadworthy-certificate-Sunshine Coast ">Sunshine Coast</NuxtLink> and the  
 <NuxtLink to="/pages/service-areas/roadworthy-certificate-Gold Coast">Gold Coast</NuxtLink>.
 
-<space/>If you're planning to sell or transfer ownership of your bike, space you'll need to obtain a bike roadworthy safety certificate, also known as a motorcycle RWC, bike safety certificate, or bike roadworthy certificate. <space/> This certificate confirms that your motorcycle has passed a safety inspection and is deemed roadworthy by a licensed mechanic.
+<space/>If you're planning to sell or transfer ownership of your bike,  you'll need to obtain a bike roadworthy safety certificate, also known as a motorcycle RWC, bike safety certificate, or bike roadworthy certificate. <space/> This confirms that your motorcycle has passed a safety inspection and is deemed roadworthy by a licensed mechanic.
 </p>
 
         <ul class="post-details-gallery">
@@ -88,6 +88,11 @@ Our licensed mobile mechanics are on the road providing fast mobile roadworthy (
 <script setup>
 definePageMeta({
   layout:'general'
+})
+
+useServerSeoMeta({
+    title:'Bike Roadworthy Certificate | Onsite Fast',
+    description:'Mobile motorcycle roadworthy certificate, bike RWC safety certificates in Brisbane, Sunshine Coast and Gold Coast.'
 })
 </script>
 

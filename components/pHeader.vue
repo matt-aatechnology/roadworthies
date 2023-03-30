@@ -101,19 +101,20 @@
                 <a href="about-us.html">RoadWorthy Safety Certificates</a>
                 <ul>
                   <li><NuxtLink to="/roadworthy-safety-certificates/cars/">Cars</NuxtLink></li>
-                  <li><NuxtLink to="/roadworthy-safety-certificates/bikes/"> Bikes & Motorcycles</NuxtLink></li>
-                  <li><a href="our-services.html">Trailers</a></li>
-                  <li><a href="service-details.html">Caravans</a></li>
-                  <li><a href="book-taxi.html">Motorhomes</a></li>
-                  <li><a href="book-taxi.html">Light Trucks</a></li>
+                  <li><NuxtLink to="/roadworthy-safety-certificates/bikes/">Bikes & Motorcycles</NuxtLink></li>
+                  <li><NuxtLink to="/roadworthy-safety-certificates/trailers/">Trailers</NuxtLink></li>
+                  <li><NuxtLink to="/roadworthy-safety-certificates/caravans/">Caravans</NuxtLink></li>
+                  <li><NuxtLink to="/roadworthy-safety-certificates/motorhomes/">Motorhomes</NuxtLink></li>
+                  <li><NuxtLink to="/roadworthy-safety-certificates/light-trucks/">Light Trucks</NuxtLink></li>
                 </ul>
               </li>
               <li class="dropdown_menu">
                 <a href="our-taxi.html">Service Areas</a>
                 <ul>
-                  <li><a href="our-taxi.html">Brisbane</a></li>
-                  <li><a href="taxi-details.html">Gold Coast</a></li>
-                  <li><a href="taxi-details.html">Sunshine Coast</a></li>
+                  <li><NuxtLink to="/service-areas/brisbane/">Brisbane</NuxtLink></li>
+                  <li><NuxtLink to="/service-areas/sunshine-coast/">Sunshine Coast</NuxtLink></li>
+                  <li><NuxtLink to="/service-areas/gold-coast/">Gold Coast</NuxtLink></li>
+
                 </ul>
               </li>
 
