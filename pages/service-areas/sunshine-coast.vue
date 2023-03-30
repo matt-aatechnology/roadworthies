@@ -6,7 +6,7 @@
     <section class="page-header blog-details">
         <div class="container">
             <div class="page-header-info text-center">
-                <h2>Mobile Roadworthy Brisbane</h2>
+                <h2>Mobile Roadworthy Sunshine Coast</h2>
                 <subheading>Safety Certificates Done Fast</subheading>
             </div>
         </div>
@@ -35,10 +35,9 @@ Our licensed mobile mechanics are on the road providing fast mobile roadworthy (
 
         <ul class="post-details-gallery">
             <li class="img-border"><img src="/img/rwc.jpg" alt="sample rwc safety certificate form"></li>
-            <li class="img-border"><img src="/img/brisbane-2.jpg" alt="map of brisbane"></li>
+            <li class="img-border"><img src="/img/sunshine-coast-2.jpg" alt="map of sunshine coast qld"></li>
         </ul>
 
-z
 <service-features/>
 
 <br>
@@ -101,7 +100,7 @@ useServerSeoMeta({
 
 <style scoped>
 .page-header {
-    background-image: url(/img/banner-brisbane.jpg);
+    background-image: url(/img/banner-sunshine-coast.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
