@@ -54,7 +54,7 @@
       <div class="container">
         <div class="mid-header-wrap">
           <div class="site-logo">
-            <NuxtLink to="/"><img src="~/assets/img/logo-dark.png" alt="car logo" /></NuxtLink>
+            <NuxtLink to="/"><img src="/img/logo.png" alt="car logo" /></NuxtLink>
           </div>
           <ul class="header-info">
             <li>

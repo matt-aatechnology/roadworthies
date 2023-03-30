@@ -16,9 +16,13 @@
 <style scoped>
 
 .feature{
-    color:orange;
+    color:#333333;
     font-size:20px;
     font-weight: bold;
+}
+
+img{
+    margin-bottom:12px;
 }
 
 </style>
