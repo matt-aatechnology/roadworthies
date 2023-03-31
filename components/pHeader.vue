@@ -94,13 +94,13 @@
           </div>
           <div class="header-menu-wrap">
             <ul class="nav-menu">
-              <li class="active dropdown_menu">
+              <li class="active">
                 <NuxtLink to="/">Home</NuxtLink>
               </li>
               <li class="dropdown_menu">
-                <a href="about-us.html">RoadWorthy Safety Certificates</a>
+                <NuxtLink to="/roadworthy-safety-certificates/cars/">RoadWorthy Safety Certificates</NuxtLink>
                 <ul>
-                  <li><NuxtLink to="/roadworthy-safety-certificates/cars/">Cars</NuxtLink></li>
+                  <li><NuxtLink to="/roadworthy-safety-certificates/cars/">Cars & 4WDs</NuxtLink></li>
                   <li><NuxtLink to="/roadworthy-safety-certificates/bikes/">Bikes & Motorcycles</NuxtLink></li>
                   <li><NuxtLink to="/roadworthy-safety-certificates/trailers/">Trailers</NuxtLink></li>
                   <li><NuxtLink to="/roadworthy-safety-certificates/caravans/">Caravans</NuxtLink></li>
@@ -109,7 +109,7 @@
                 </ul>
               </li>
               <li class="dropdown_menu">
-                <a href="our-taxi.html">Service Areas</a>
+                <NuxtLink to="/service-areas/brisbane/">Service Areas</NuxtLink>
                 <ul>
                   <li><NuxtLink to="/service-areas/brisbane/">Brisbane</NuxtLink></li>
                   <li><NuxtLink to="/service-areas/sunshine-coast/">Sunshine Coast</NuxtLink></li>
@@ -118,28 +118,30 @@
                 </ul>
               </li>
 
-              <li><a href="contact.html">Fast Booking Enquiry</a></li>
-              <li><a href="contact.html">Pricing</a></li>
-              <li class="dropdown_menu">
-                <a href="blog-grid.html">FAQ</a>
-                <ul>
-                  <li><a href="blog-grid.html">Grid Posts</a></li>
-                  <li><a href="blog-classic.html">Classic Posts</a></li>
-                  <li><a href="blog-details.html">Blog Details</a></li>
-                </ul>
-              </li>
+              <li><NuxtLink to="/roadworthy-booking-enquiry">Fast Booking Enquiry</NuxtLink></li>
+
+              <li><NuxtLink to="/roadworthy-certificates-faq">FAQ</NuxtLink></li>
+
+              <li><NuxtLink to="/pricing">Pricing</NuxtLink></li>
+
             </ul>
           </div>
+
+
           <div class="menu-right-item">
             <a href="book-taxi.html" class="menu-btn">BOOK NOW!</a>
           </div>
+
+
           <div class="mobile-menu-icon">
             <div class="burger-menu">
-              <div class="line-menu line-half first-line"></div>
+              <div class="line-menu  first-line"></div>
               <div class="line-menu"></div>
-              <div class="line-menu line-half last-line"></div>
+              <div class="line-menu  last-line"></div>
             </div>
           </div>
+
+
         </div>
       </div>
     </div>

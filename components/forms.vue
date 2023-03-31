@@ -17,7 +17,7 @@
                 </a>
             </div>
             <div class="col-lg-4">
-                <a href="https://www.support.transport.qld.gov.au/qt/formsdat.nsf/forms/QF3520/$file/F3520_CFD.pdf" target="_new">
+                <a href="https://www.qld.gov.au/transport/registration/roadworthy" target="_new">
                 <button class="btn btn-secondary">Safety Certificate Guidelines</button>
                 </a>
             </div>
