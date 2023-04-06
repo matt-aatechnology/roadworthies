@@ -185,3 +185,11 @@ definePageMeta({
 });
 </script>
 
+
+<style scoped>
+
+.default-btn{
+  background-color: red;
+}
+
+</style>

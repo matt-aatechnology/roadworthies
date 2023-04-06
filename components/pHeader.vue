@@ -147,3 +147,11 @@
     </div>
   </header>
   </template>
+
+
+  <style scoped>
+  .header-info>li{
+    margin-right:50px;
+  }
+  
+  </style>

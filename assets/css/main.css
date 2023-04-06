@@ -46,7 +46,7 @@
 }
 
 .about-img:before {
-    background-color: #ff9900;
+    background-color: #cccccc;
     border-radius: 2px;
     transform: skew(-20deg, 0deg);
     content: "";
@@ -134,7 +134,7 @@
 }
 
 .about-info li h2 a {
-    color: #ff9900;
+    color: red;
     font-weight: 700;
     margin: 0;
 }
@@ -2054,8 +2054,8 @@ textarea:-ms-input-placeholder {
 }
 
 .footer-top .footer-call:before {
-    background-color: #ff9900;
-    background-image: repeating-linear-gradient(45deg, #f7a20f 0, #f7a20f 2px, transparent 0, transparent 50%);
+    background-color: #666666;
+    /* background-image: repeating-linear-gradient(45deg, black 0, black 2px, transparent 0, transparent 50%); */
     background-size: 10px 10px;
     content: '';
     width: 5000px;
