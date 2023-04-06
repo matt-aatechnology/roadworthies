@@ -1,6 +1,6 @@
 deployment:
  tasks:
- - export DEPLOYPATH=/home/deltade4/public_html
+ - export DEPLOYPATH=/home/vuesoft/public_html
  - /bin/cp -R /home/deltade4/repositories/DeltaDesigns22 $DEPLOYPATH
  - /bin/cp node_modules $DEPLOYPATH
  - /bin/cp -R public $DEPLOYPATH
