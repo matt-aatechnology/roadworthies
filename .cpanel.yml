@@ -1,0 +1,11 @@
+deployment:
+ tasks:
+ - export DEPLOYPATH=/home/deltade4/public_html
+ - /bin/cp -R /home/deltade4/repositories/DeltaDesigns22 $DEPLOYPATH
+ - /bin/cp node_modules $DEPLOYPATH
+ - /bin/cp -R public $DEPLOYPATH
+ - /bin/cp -R views $DEPLOYPATH
+ - /bin/cp -R images $DEPLOYPATH
+ - /bin/cp -R css $DEPLOYPATH
+ - /bin/cp app.js $DEPLOYPATH
+ - /bin/cp package.json $DEPLOYPATH
